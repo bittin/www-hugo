@@ -9,15 +9,15 @@ Ett rörigt samtal om
   GPS störsändare, semester, pipeline-scanners, workflows, Hugo-ändringar,
   radioamatörer, DevOps, påven, SSPX, cellgifter, off-the-grid, 10 gigabit...
 
-Plugs:
+## Lyssna
+* [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2026-07-06_Sommar.mp3?dest-id=117848), längd: 49:12
+
+## Plugs
 * [OWASP Gotheburg: BBQ with friends - Post summer kickoff](https://www.meetup.com/owasp-gothenburg-meetup-group/events/315425062/?eventOrigin=group_upcoming_events) \
   Wednesday 26/8 - 17:00
 * [BSides Göteborg](https://bsidesgbg.com/) \
   Conference Date: 23th October \
   Call For Paper: 4th July - 10th September
-
-## Lyssna:
-* [mp3](https://traffic.libsyn.com/secure/sakerhetspodcasten/2026-07-06_Sommar.mp3?dest-id=117848), längd: 49:12
 
 ## AI transkribering
 
